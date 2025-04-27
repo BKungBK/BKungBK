@@ -25,7 +25,7 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BKungBK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langsusername=BKungBK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BKungBK&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
