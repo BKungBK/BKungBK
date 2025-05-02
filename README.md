@@ -37,7 +37,7 @@
 <pre align="center">
       /\_/\  
       ( o.o ) 
-      > <img src="https://komarev.com/ghpvc/?username=BKungBK&style=flat-square&color=blue" alt="Lovely people" /> <
+      > <img src="https://komarev.com/ghpvc/?username=BKungBK&style=for-the-badge&color=3D365C&label=view" alt="Lovely people" /> <
 </pre>
 
 ---
